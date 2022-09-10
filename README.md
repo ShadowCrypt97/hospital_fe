@@ -32,3 +32,6 @@ python manage.py runserver
 
 - creamos la base de datos django_api y escribimos => 
 python manage.py migrate
+
+- ejecutar servidor
+python manage.py runserver
