@@ -29,3 +29,6 @@ cd backend
 
 - iniciamos la api en el directorio en donde está manage.py => 
 python manage.py runserver
+
+- creamos la base de datos django_api y escribimos => 
+python manage.py migrate
